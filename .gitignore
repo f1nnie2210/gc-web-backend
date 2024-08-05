@@ -1,0 +1,12 @@
+config.json
+node_modules
+build
+npm-debug.log
+.env
+.DS_Store
+assets
+note.txt
+utils
+events
+db
+handlers
