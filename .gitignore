@@ -8,5 +8,9 @@ assets
 note.txt
 utils
 events
-db
 handlers
+src/db/channelQueries.js
+src/db/itemQueries.js
+src/db/userQueries.js
+src/db/packQueries.js
+src/db/resultQueries.js
